@@ -1,6 +1,6 @@
 
   body {
-	font-family: 'Oswald', sans-serif;
+	 font-family: 'Merriweather', serif;
     width: 100%;
 }
 
@@ -90,9 +90,8 @@ nav {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background: #165292;
+  background-image: url(../img/tres.jpg);
   padding: 4%;
-  border: 1px solid #000;
   width: 100%;
 }
 
@@ -145,7 +144,7 @@ form textarea{
 
 footer {
   justify-content: center;
-  background: #8fb2d0;
+  background: #e683d7;
   padding: 4%;
 }
 
