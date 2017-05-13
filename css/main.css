@@ -50,7 +50,7 @@ nav {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
-  background: #8fb2d0;
+  background-image: url(../img/cinco.jpg);
 }
 
 #about h2 {
@@ -64,13 +64,15 @@ nav {
   margin: 3%;
   border: 1px solid #000;
   padding: 2%;
-  background: /*#365292*/#6699FF;
+  background: #6699FF;
 }
 
 #about p {
   width: 50%;
   margin: 6%;
   font-size: 100%;
+  text-align: justify;
+  margin-top: 12%;
 }
 
 #about img {
@@ -81,6 +83,9 @@ nav {
 
 #about article div {
   width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 /*Seccion video*/
